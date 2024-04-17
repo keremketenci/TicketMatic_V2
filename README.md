@@ -40,16 +40,22 @@ Bu proje aşağıdaki sınıflardan oluşmaktadır:
 ## Uygulama içi ekran görüntüleri
 Giriş Paneli: 
 ![Login](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/d5a91ad9-8082-4b0b-9c64-746c9dc4bb5f)
+
 KayıtOl Paneli: 
 ![Register](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/d16e49f6-5dee-4de3-8ba1-34d28bd48d92)
+
 AnaEkran Paneli: 
 ![Home](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/f72a802f-5558-4ee4-9d5c-ecb610c3641f)
+
 Film Paneli: 
 ![Movie](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/6e63fb54-205c-466b-a835-4fadcad42c83)
+
 Seans Paneli: 
 ![Session](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/4edb3c89-a7c0-426e-bdc1-809de19dc263)
+
 Salon Paneli: 
 ![Theater](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/5da38443-6ac2-44e7-8c02-ca8e7b60d08b)
+
 Reservasyon Paneli: 
 ![Reservation](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/787dff23-cb6b-4af1-b589-70de3b7a683a)
 
