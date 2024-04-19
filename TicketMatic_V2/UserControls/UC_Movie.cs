@@ -60,8 +60,6 @@ namespace TicketMatic_V2.UserControls
                 {
                     MessageBox.Show($"You clicked on {movieName}");
                     UC_Session.Instance.ListSessions(movieName);
-                    //UC_Theater.Instance.GetTheater(0);
-                    //UC_Session.Instance.ListSessions(null);
                     ((TicketMatic)this.ParentForm).tab_Session_Click(null, null);
                 };
 

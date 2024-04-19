@@ -62,7 +62,6 @@ namespace TicketMatic_V2.UserControls
             {
                 int selected_session = Convert.ToInt32(selectedRow.Cells[idColumnIndex].Value);
                 UC_Theater.Instance.GetTheater(selected_session);
-                //UC_Theater.Instance.ClearSelectedSeatsLabel();
                 UC_Reservation.Instance.GetSessionId(selected_session);
                 ((TicketMatic)this.ParentForm).tab_Theater_Click(null, null);
             }
