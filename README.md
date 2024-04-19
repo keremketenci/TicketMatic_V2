@@ -17,7 +17,7 @@ Uygulama başladığında, aşağıdaki adımları takip ederek bilet satın ala
 2. Başarılı bir şekilde giriş yaptıktan sonra bilet almak istediğiniz filmi seçiniz.
 3. Film Seçildikten sonra seçilen filme ait seanslar listelenecektir, bir seans seçin.
 4. Seans seçildikten sonra seçilen seansa ait salonun koltukları listelenecektir, satın almak istediğiniz koltuk(ları) seçiniz.
-5. Koltuk(lar) seçildikten sonra rezervasyon ekranında seçtiğiniz seansa ait bilgiler ve toplam bilet tutarınız listelenecektir, onayla tuşuna basıp bilet alma işlemini gerçekleştirebilirsiniz. (Kredi kartı giriş ekranı tamamen göstermeliktir girdiğiniz veriler hiçbir şekilde işlenmez veya kaydedilmez).
+5. Koltuk(lar) seçildikten sonra rezervasyon ekranında seçtiğiniz seansa ait bilgiler ve toplam bilet tutarınız listelenecektir, onayla tuşuna basıp bilet alma işlemini gerçekleştirebilirsiniz.
 
 ## Sınıflar
 
@@ -33,6 +33,7 @@ Bu proje aşağıdaki sınıflardan oluşmaktadır:
 
 - Bu uygulama sadece temsili bir amaç taşımaktadır ve gerçek bir bilet rezervasyon sistemi olarak kullanılamaz.
 - Uygulama SQLite veritabanını kullanarak rezervasyonları "Data" klasörünün içindeki "TicketMaticDb.db" dosyasına kaydeder.
+- Kredi kartı giriş ekranı tamamen göstermeliktir girdiğiniz veriler hiçbir şekilde işlenmez veya kaydedilmez, herhangi bir kart bilgisi girmedende işleminize devam edebilirsiniz.
 - Hatalı girişlerde uygulama çökmez, bunun yerine hata mesajı gösterir ve kullanıcıyı tekrar giriş yapmaya yönlendirir.
 - Kullanıcı istediği zaman geri dönüp farklı bir seçim yapabilir ve bilet işlemlerini yeniden başlatabilir.
 - Bu değişiklikler, kullanıcı deneyimini iyileştirmek ve hata yönetimini güçlendirmek için yapılmıştır.
