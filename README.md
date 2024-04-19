@@ -60,9 +60,6 @@ Bu proje aşağıdaki sınıflardan oluşmaktadır:
 ### Reservasyon Paneli: 
 ![Reservation](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/787dff23-cb6b-4af1-b589-70de3b7a683a)
 
-## Modelleme
-
-
 ## Not: Dosyalardaki engel hatası
 
 Bu projeyi indirdikten sonra, eğer böyle bir hata alıyorsanız "Severity	Code	Description	Project	File	Line	Suppression State
@@ -72,4 +69,5 @@ ilgili dosyanın üzerine sağ tıklayıp özellikler seçeneğinden "unblock" s
 
 ### Yardımcı olabilecek kaynaklar
 https://stackoverflow.com/questions/51348919/couldnt-process-file-resx-due-to-its-being-in-the-internet-or-restricted-zone-o
+
 ![image](https://github.com/keremketenci0/TicketMatic_V2/assets/128905838/705fd411-41e5-415f-8639-50a628a0a643)
