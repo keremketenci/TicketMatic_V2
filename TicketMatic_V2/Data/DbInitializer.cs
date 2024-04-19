@@ -131,7 +131,7 @@ namespace TicketMatic_V2
                         // Reservation
                         command.CommandText = createReservationsTableQuery;
                         command.ExecuteNonQuery();
-                    
+
                         command.CommandText = insertReservationQuery;
                         command.ExecuteNonQuery();
                     }
