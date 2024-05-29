@@ -24,6 +24,7 @@ Uygulama başladığında, aşağıdaki adımları takip ederek bilet satın ala
 Bu proje aşağıdaki sınıflardan oluşmaktadır:
 
 - Program.cs: Ana uygulama dosyasıdır ve kullanıcıyla etkileşim sağlar.
+- User.cs: Kullanıcıları temsil eden sınıfı içerir.
 - Movie.cs: Filmleri temsil eden sınıfı içerir.
 - Session.cs: Film seanslarını temsil eden sınıfı içerir.
 - Theater.cs: Sinema salonlarını temsil eden sınıfı içerir.
@@ -66,7 +67,7 @@ Bu proje aşağıdaki sınıflardan oluşmaktadır:
 Bu projeyi indirdikten sonra, eğer böyle bir hata alıyorsanız "Severity	Code	Description	Project	File	Line	Suppression State
 Error		Couldn't process file TicketMatic.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.	TicketMatic_V2			
 "
-ilgili dosyanın üzerine sağ tıklayıp özellikler seçeneğinden "unblock" seçeneğini aktif edip "tamam"a basıp kaydedin.
+Dosya gezgini üzerinden ilgili dosyanın üzerine sağ tıklayıp özellikler seçeneğinden "unblock" seçeneğini aktif edip "tamam"a basıp kaydedin.
 
 ### Yardımcı olabilecek kaynaklar
 https://stackoverflow.com/questions/51348919/couldnt-process-file-resx-due-to-its-being-in-the-internet-or-restricted-zone-o
